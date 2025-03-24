@@ -1,0 +1,290 @@
+[
+  {
+    "category": "Despensa",
+    "name": "PRIMOR",
+    "brand": "Aceite Vegetal Premium 900 ml",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Six Pack Trozos De Atún En Aceite x 140 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "FARAON",
+    "brand": "Arroz Extra Faraón de 5 Kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Azúcar Rubia 5 kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "PRIMOR",
+    "brand": "Aceite Vegetal Clásico 900 ml",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "MOLITALIA",
+    "brand": "Sémola 200 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "COSTENO",
+    "brand": "Arroz Extra Costeño 5 kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Arroz Extra 5 kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "GRAN CHALAN",
+    "brand": "Arroz Extra Añejo Bolsa x 10 Kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "ROYAL",
+    "brand": "Gelatina Naranja Bolsa 160 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "BLANCA FLOR",
+    "brand": "Premezcla para Panqueques Caseros de 720 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Aceite de Girasol 900 mL",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "PRECIO UNO",
+    "brand": "Aceite de Soya 900 mL",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "PROVENZAL",
+    "brand": "Picarones Buñuelos 165 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "MOLITALIA",
+    "brand": "Puré de Tomate Pomarola Concentrado 110 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Sémola 200 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "HERSHEYS",
+    "brand": "Chocolate Kisses Cookies And Creme Empaque 102 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Pack de Menestras Tottus: 500 g de lentejas + 500 g de arvejas + 500 g de frijoles canarios",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "SALSA BLANCA EN POLVO TOTTUSX 36 GR",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "Sin nombre",
+    "brand": "Sazonador Ajinomix Pop Corn Mantequilla Caja x 6 Sobres",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "MOLITALIA",
+    "brand": "Fideos Spaghetti de 950 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "SIBARITA",
+    "brand": "Orégano Pack 6 Unidades",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "EL OLIVAR",
+    "brand": "Aceite de Oliva Puro 500 mL",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Chocoriz Kids 380G",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "VALLE FERTIL",
+    "brand": "Salsa Vinagreta Clásica Valle Fértil 370 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "PACASMAYO",
+    "brand": "Arroz Extra 750 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "PIKI",
+    "brand": "Ajo Molido 350 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "DON VITTORIO",
+    "brand": "Spaghetti 950 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "BIMBO",
+    "brand": "Mini Pingüinos Marinela - 10 unidades",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "NICOLINI",
+    "brand": "Tallarín Grueso Empaque 1 kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "PAN",
+    "brand": "Harina de Maíz Blanco Precocido 1 kg",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "SALSA PESTO EN POLVO TOTTUSX 30 GR",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "COSTENO",
+    "brand": "Lenteja Costeño 500 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "AJINOMOTO",
+    "brand": "Sopa Instantánea Ajinomen Sabor gallina 80 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "NUTELLA",
+    "brand": "Crema de Avellanas 371g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "UNIVERSAL",
+    "brand": "Gelatina Fresa 130 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Pre Mezcla Galleta de Avena con Chispas Sabor Chocolate",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Fideos Spaghetti Libre de Gluten 400g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "AJINOMOTO",
+    "brand": "Caldo Sabor Carne Doña Gusta 6 Unidades",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "MOLITALIA",
+    "brand": "Fideo Codo Mediano Rayado Bolsa 235g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "PASTA SPAGUETTI X 950G",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "GRANO DE ORO",
+    "brand": "Fideo Spaghetti 500 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "LAIVE",
+    "brand": "Fourpack Gelatina Sabor Naranja Yopi 480 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Mostaza amarilla",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Aceite vegetal de 900 mL",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "ALACENA",
+    "brand": "Mayonesa 475 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "TOTTUS",
+    "brand": "Laurel Entero 7 g",
+    "imageUrl": ""
+  },
+  {
+    "category": "Despensa",
+    "name": "OLIVOS DEL SUR",
+    "brand": "Choclo Dulce Desgranado Lata 425 g",
+    "imageUrl": ""
+  }
+]
